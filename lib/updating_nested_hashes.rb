@@ -65,8 +65,8 @@ add_characters[:additional_characters] = []
 prince = {:name => "Prince Escalus"}
 apothecary = {:name => "Apothecary"}
 
-add_characters[additional_characters] << prince
-add_characters[additional_characters] << apothecary
+epic_tragedy[additional_characters] << prince
+epic_tragedy[additional_characters] << apothecary
 
 
    # After your code, the following line will return the altered hash
